@@ -103,13 +103,13 @@ export default function Example() {
             </Transition>
           </Popover>
 
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="/gallery" className="text-sm font-semibold leading-6 text-gray-900">
             Galería
           </a>
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="news" className="text-sm font-semibold leading-6 text-gray-900">
             Noticias
           </a>
-          <a href="#" className="text-sm font-semibold leading-6 text-gray-900">
+          <a href="events" className="text-sm font-semibold leading-6 text-gray-900">
             Eventos
           </a>
         </Popover.Group>
